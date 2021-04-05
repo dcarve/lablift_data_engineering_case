@@ -69,7 +69,7 @@ def primary_function(patient_id):
     number_of_donations = data.quant.max()
     total_volume_donated_cc = data.vol.max()
     
-    
+    db.close()
     
     return {"months_since_last_donation": months_since_last_donation, 
                     "number_of_donations": number_of_donations, 
