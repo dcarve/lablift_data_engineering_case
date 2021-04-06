@@ -9,7 +9,7 @@
 
 ## API
 
-###### Endspoint
+###### Endpoint
 http://localhost:5500/donation
 ###### Método
 POST
