@@ -7,3 +7,20 @@
 - Minha intensão era usar wsgi na API, para facilitar a documentação, mas os modelos que eu tinha disso eu fiz no meu trabalho, e não fiz uma cópia para meu repositório pessoal, então tive que fazer uma api mais simples.
 
 
+## API
+
+###### Endspoint
+http://localhost:5500/donation
+###### Método
+POST
+###### Headers
+{"Content-Type":"application/json"}
+###### Body
+{"patient_id":numero_do_id_paciente}
+exemplo
+{"patient_id":439}
+
+
+
+
+
