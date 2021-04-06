@@ -17,7 +17,9 @@ POST
 {"Content-Type":"application/json"}
 ###### Body
 {"patient_id":numero_do_id_paciente}
+
 exemplo
+
 {"patient_id":439}
 
 
