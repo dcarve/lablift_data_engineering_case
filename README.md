@@ -1,6 +1,6 @@
 # labfit_data_engineering_case
 
-Resolução do case da empresa labfit
+Resolução do case da empresa lablift
 
 https://github.com/lablift/data-engineering-case
 
